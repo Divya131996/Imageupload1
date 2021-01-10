@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Imageupload"
+  "defaultProject": "Imageupload",
+  "cli": {
+    "analytics": "54f8cfb2-ff87-48db-824f-ec42b5c6b3e0"
+  }
 }
